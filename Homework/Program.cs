@@ -10,7 +10,7 @@ namespace Homework
     {
         static void Main(string[] args)
         {
-            CLBirdie.MakeSomeNoise(name);
+            CLBirdie.MakeSomeNoise();
         }
 
         public static void Assign1_1()
